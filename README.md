@@ -1,6 +1,8 @@
 # Service LoadBalancer Helm Chart
 
-## Credit: Guang Ya Liu -- forked from https://github.com/gyliu513/work/tree/master/k8s/charts/keepalived/chart/keepalived
+## Credit: Guang Ya Liu 
+
+This repo is forked from https://github.com/gyliu513/work/tree/master/k8s/charts/keepalived/chart/keepalived for easy clone without having to go through several other works of Guang Ya Liu 
 
 ## Prerequisites
 
